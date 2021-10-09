@@ -1,6 +1,2 @@
-# WaBot
-# WaBot
-# WaBot
-# WaBot
-# WaBot
+# Deploy
 # WaBot

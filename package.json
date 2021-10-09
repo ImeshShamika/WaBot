@@ -17,6 +17,8 @@
     "async": "^2.4.1",
     "awesome-phonenumber": "^2.53.0",
     "axios": "^0.21.0",
+    "crypto": "^1.0.1",
+    "cucumber": "^7.0.0-rc.0",
     "emoji-api": "^1.0.2",
     "escape-string-regexp": "^1.0.5",
     "fake-useragent": "^1.0.1",
@@ -42,7 +44,6 @@
     "yargs": "^17.0.1",
     "yt-search": "^2.8.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/Fernazer/whatsapp-bot.git"
@@ -50,5 +51,8 @@
   "bugs": {
     "url": "https://github.com/Fernazer/whatsapp-bot/issues"
   },
-  "homepage": "https://github.com/Fernazer"
+  "homepage": "https://github.com/Fernazer",
+  "devDependencies": {
+    "forever": "^4.0.1"
+  }
 }
